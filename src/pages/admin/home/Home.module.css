@@ -1,0 +1,12 @@
+section {
+    width: 100%;
+    background-color: #ECECEC;
+    height: 100vh;
+}
+
+
+.homeTitle {
+    color: #333; /* Altere para a cor desejada */
+    padding: 30px 0;
+   text-align: center;
+}
